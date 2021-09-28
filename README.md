@@ -1,7 +1,7 @@
 # Android Code Training
 
 ## Setup
-Before starting make sure to setup and run our [pairing API code](https://github.com/andresfabreu/moobie-android-pairing-api).
+Before starting make sure to setup and run our [pairing API code](https://github.com/andresfabreu/android-training-api).
 
 ## Requirements
 - Must use: 
