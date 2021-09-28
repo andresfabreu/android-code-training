@@ -1,7 +1,7 @@
 # Android Code Training
 
 ## Setup
-Before starting make sure to setup and run our [pairing API code](https://github.com/andresfabreu/android-training-api).
+Before starting make sure to setup and run the [training API code](https://github.com/andresfabreu/android-training-api).
 
 ## Requirements
 - Must use: 
@@ -13,7 +13,7 @@ Before starting make sure to setup and run our [pairing API code](https://github
 2. One integration test
 
 ## Description
-Our pairing API delivers a Car CRUD, in moObie app this CRUD is used in two differents scenarios: 
+Our pairing API delivers a Car CRUD, this CRUD is used in two differents scenarios: 
 1. Favorite Screen, display favorited cars
 2. Map Screen, display cars near the user
 
@@ -21,4 +21,4 @@ That said the Challenge consist in the development of a component that will be u
 1. Favorite Screen: Display only Car model and brand, does not have a click action
 2. Map Screen: Besides the Car model and brand also display the distance between the Car and the user, notice that our backend team was not able to deliver this information, so it'll be calculate in app side.
 
-*ps: The component may or may not have a custom header and footer, based on each scenario. The entry point can be a screen with two button for exemple.
+ps: The component may or may not have a custom header and footer, based on each scenario. The entry point can be a screen with two button for exemple.
