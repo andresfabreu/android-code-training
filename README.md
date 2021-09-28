@@ -13,7 +13,7 @@ Before starting make sure to setup and run the [training API code](https://githu
 2. One integration test
 
 ## Description
-Our pairing API delivers a Car CRUD, this CRUD is used in two differents scenarios: 
+The training API delivers a Car CRUD, this CRUD is used in two differents scenarios: 
 1. Favorite Screen, display favorited cars
 2. Map Screen, display cars near the user
 
