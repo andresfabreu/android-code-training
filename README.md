@@ -1,7 +1,4 @@
-# moObie Android Code Challenge
-
-## About the challenge
-This is a code challenge of 7 days duration. Please read all the instructions carefully.
+# Android Code Training
 
 ## Setup
 Before starting make sure to setup and run our [pairing API code](https://github.com/andresfabreu/moobie-android-pairing-api).
@@ -25,6 +22,3 @@ That said the Challenge consist in the development of a component that will be u
 2. Map Screen: Besides the Car model and brand also display the distance between the Car and the user, notice that our backend team was not able to deliver this information, so it'll be calculate in app side.
 
 *ps: The component may or may not have a custom header and footer, based on each scenario. The entry point can be a screen with two button for exemple.
-
-## Submission
-Send a link to a public git repo.
